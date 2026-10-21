@@ -1,1 +1,1 @@
-# agent-loop-skill
+this repo contains skills that are still worth itterating on 
